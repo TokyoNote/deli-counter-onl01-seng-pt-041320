@@ -1,6 +1,6 @@
 katz_deli = []
 
-def take_a_number(katsz_deli)
+def line(katsz_deli)
   if |number| = 0
     puts "The line is currently empty."
  current_line = "The line is currently:"
