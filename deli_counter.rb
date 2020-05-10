@@ -1,7 +1,7 @@
 katz_deli = []
 
 def line(deli)
-  if number == 0
+  if deli == 0
     puts "The line is currently empty."
  current_line = "The line is currently:"
     deli.each.with_index(1) do |person, i|
